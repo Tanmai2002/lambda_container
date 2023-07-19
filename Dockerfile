@@ -13,7 +13,8 @@ RUN apt-get update && \
   make \
   cmake \
   unzip \
-  libcurl4-openssl-dev
+  libcurl4-openssl-dev \
+  libgl1
 
 RUN apt-get install -y --fix-missing \
     build-essential \
