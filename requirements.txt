@@ -1,0 +1,5 @@
+mediapipe==0.8.8.1
+numpy==1.21.2
+boto3==1.20.23
+boto3-stubs>=1.0
+aws_lambda_typing==2.9.2
